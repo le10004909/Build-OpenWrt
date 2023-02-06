@@ -16,6 +16,5 @@
 # Add a feed source
 
 cat >> feeds.conf.default <<EOF
-src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git passwall https://github.com/xiaorouji/openwrt-passwall
+src-git kenzo https://github.com/le10004909/small-package
 EOF
